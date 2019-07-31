@@ -1,3 +1,8 @@
+### React学习仓库
+主要用来记录一些学习react用到的一些自定义组件和实践代码
+
+本仓库是基于`Create React App v3`脚手架搭建
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
